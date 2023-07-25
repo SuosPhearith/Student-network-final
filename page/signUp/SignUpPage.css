@@ -1,0 +1,17 @@
+body {
+    background-color: #1E1E1E;
+  }
+.b1{
+    border-radius: 30px;
+}
+.login-area{
+    border: none;
+    background-color: #BBBBBB;
+}
+::placeholder{
+    font-size: 14px;
+}
+.forgot{
+    text-decoration: none;
+    color: black;
+}
